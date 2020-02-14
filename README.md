@@ -1,4 +1,4 @@
-Axelor Open Suite
+Axelor Open Suite (Honda LDE Fork)
 ================================
 
 Axelor Open Suite reduces the complexity and improve responsiveness of business processes. Thanks to its modularity, you can start with few features and  then activate other modules when needed.
@@ -19,7 +19,7 @@ Axelor Open Suite is built on top of [Axelor Open Platform](https://github.com/a
 Code Format
 ================================
 
-Axelor follows Google Code Format. 
+Axelor follows Google Code Format.
 Tools:
 * Gradle Task: ./gradlew spotlessApply
 * IDE plugin
